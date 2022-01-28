@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polyglot-master.
 - 👀 I’m interested in many different types of programming languages. 
-- 🌱 I’m currently learning data analytics using jupyter.
+- 🌱 I’m currently learning data analytics based on jupyter.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me ...
 
